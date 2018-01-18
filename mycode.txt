@@ -1,7 +1,3 @@
 this is my code.
 this is branch1 added.
-<<<<<<< HEAD
-this is conflict test in master (resolve confict).
-=======
-confict test in branch1.
->>>>>>> branch1
+this is conflict test  (resolve confict).
